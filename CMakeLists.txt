@@ -13,5 +13,7 @@ set(CMAKE_CXX_STANDARD 17)
 add_subdirectory(lib)
 add_subdirectory(bin)
 
+add_executable(labwork2-LakeevGeorgiy main.cpp)
+
 enable_testing()
 add_subdirectory(tests)
