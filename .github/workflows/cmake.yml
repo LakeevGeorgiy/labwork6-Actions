@@ -42,5 +42,5 @@ jobs:
         title: "Labwork6-Actions"
         files: |
           CMakeLists.txt
-          ${{github.workspace}}/build/bin/main.exe
+          ${{github.workspace}}/build/bin/main.cpp
 
